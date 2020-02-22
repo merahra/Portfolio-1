@@ -8,7 +8,9 @@ p{
 
 h1{
     font-size: 50px;
-
+}
+h2{
+    text-align: center;
 }
 .name-highlight{
     color: peru;
@@ -43,7 +45,7 @@ h1{
 
 section{
     height: 500px;
-    margin: 0px 0px 150px;
+    margin: 0px 0px 200px 0px;
 }
 .link-button{
     text-decoration: none;
@@ -63,7 +65,6 @@ section{
 .experience-area{
     background-image: url("Images/exp-bg.png");
     background-repeat: no-repeat;
-    background-position: left;
 }
 #full-stack{
     border-left: 7px solid;
